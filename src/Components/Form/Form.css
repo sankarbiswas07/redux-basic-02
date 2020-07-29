@@ -1,0 +1,22 @@
+.Form{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(122, 93, 150);
+}
+
+.Form input{
+    padding: 10px 0 10px 5px;
+    border-radius: 10px;
+    border: none;
+    margin: 20px 10px;
+}
+
+.Form button{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(99, 190, 96);
+    margin: 20px 10px;
+    cursor: pointer;
+}
